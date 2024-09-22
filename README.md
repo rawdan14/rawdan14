@@ -1,5 +1,5 @@
 ## Hi there, I'm Radwan 👋
-I'm a Data Engineer from Radwan and I love working on various exciting projects. Over the course of my career, I've completed a series of projects. Here's a summary of them:
+I'm a Data Engineer from Egypt and I love working on various exciting projects. I've completed a series of projects. Here's a summary of them:
 
 ##  Projects 
 
