@@ -6,9 +6,9 @@ I'm a Data Engineer from Egypt and I love working on various exciting projects. 
 | Name | Description |
 |---|---|
 | [Meta backend capstone](https://github.com/leanczo/meta-backend-capstone) | This is a capstone project for the Meta Backend Developer certification, showcasing proficiency in creating and managing backend services and functions. |
-| [Meta frontend capstone](https://github.com/leanczo/meta-frontend-capstone) | This is a capstone project for the Meta Frontend Developer certification, demonstrating mastery over visual and interactivity elements on the web. |
-| []() |. |
-| []() | This is a practice project to practice creating |
-| []() | This is a  |
-| []() | This is a  |
-| []() | This is a  |
+| [Little-Lemon ]() | This is a capstone project for the Meta Frontend Developer certification, demonstrating mastery over visual and interactivity elements on the web. |
+| [Hotel-Booking]() |. |
+| [NashvileHousing]() | This is a practice project to practice creating |
+| [Global-Super-Store]() | This is a  |
+| [Coronavirus]() | This is a  |
+| [Matgat-Jewellery]() | This is a  |
